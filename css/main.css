@@ -139,6 +139,7 @@ html, body{
 
 
 .jumbotron{
+    height: 400px!important;
     color: #ffffff;
     margin-top: 200px;
     float: none; 
@@ -167,6 +168,11 @@ html, body{
 .gPlay{
     width: 50%;
     height: 50%;
+
+}
+.gPlayIni{
+    width: 200px;
+    height: 200px;
 
 }
 
